@@ -9,7 +9,7 @@ public class AmsApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(AmsApplication.class, args);
-	
+	    System.out.println("commit 1 from dev");
 	}
 
 }
